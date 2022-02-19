@@ -1,1 +1,1 @@
-#This is an awesome python script
+#This is an awesome Python script
